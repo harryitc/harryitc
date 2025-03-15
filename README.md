@@ -8,12 +8,21 @@
 
 - 💌 You can reach me at [cuongharryit@gmail.com](mailto:cuongharryit@gmail.com) or [harryitc.dev@gmail.com](mailto:harryitc.dev@gmail.com)
 
+<div align="center">
+
+<h3>Visitors</h3>
+
+![Visitor Count](https://profile-counter.glitch.me/haryitc/count.svg)
+
+</div>
+
+
 <p align="center">
  <img width="1000" src="github-snake.svg" alt="snake"/>
 </p>
 
 ## ⚙ Technologies
-![](https://skillicons.dev/icons?i=js,ts,dart,postgres,mongodb,visualstudio,vscode,postman,github,react,flutter,nodejs,nextjs,vercel,html,css,bootstrap,jquery&perline=9)
+![](https://skillicons.dev/icons?i=js,ts,c,cs,cpp,dotnet,python,wordpress,ubuntu,angular,nestjs,react,nextjs,postgres,visualstudio,vscode,postman,github,gitlab,flutter,nodejs,vercel,html,css,bootstrap,redis,tailwind,figma,astro,docker&perline=9)
 
 ## 📊 Github Stats
 ![](https://raw.githubusercontent.com/Harryitc/github-stats/master/generated/overview.svg#gh-dark-mode-only)
@@ -27,7 +36,3 @@
 
 ## 🏆 Github Trophies
 ![](https://github-profile-trophy.vercel.app/?username=harryitc&theme=dracula&no-frame=true&column=4&margin-w=15)
-
-
-## ⚙️ Badges
-![](https://komarev.com/ghpvc/?username=harryitc&color=green)
