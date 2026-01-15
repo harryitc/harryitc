@@ -17,9 +17,24 @@
 </div>
 
 
-<p align="center">
+<!-- <p align="center">
  <img width="1000" src="github-snake.svg" alt="snake"/>
-</p>
+</p> -->
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/harryitc/harryitc/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/harryitc/harryitc/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/harryitc/harryitc/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
 
 ## ⚙ Technologies
 ![](https://skillicons.dev/icons?i=js,ts,c,cs,cpp,dotnet,python,wordpress,ubuntu,angular,nestjs,react,nextjs,postgres,visualstudio,vscode,postman,github,gitlab,flutter,nodejs,vercel,html,css,bootstrap,redis,tailwind,figma,astro,docker&perline=9)
