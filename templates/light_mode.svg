@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="{{WIDTH}}" height="{{HEIGHT}}" viewBox="0 0 {{WIDTH}} {{HEIGHT}}">
+  <style>
+    text { font-family: ui-monospace, "SF Mono", "Cascadia Mono", "DejaVu Sans Mono", Consolas, monospace; font-size: {{FONT_SIZE}}px; }
+    .art { fill: #6e7781; }
+    .key { fill: #bc4c00; }
+    .val { fill: #1f2328; }
+    .hdr { fill: #0969da; }
+    .dot { fill: #d1d9e0; }
+    .add { fill: #1a7f37; }
+    .del { fill: #cf222e; }
+  </style>
+  <rect x="0.5" y="0.5" width="{{WIDTH1}}" height="{{HEIGHT1}}" rx="10" fill="#ffffff" stroke="#d1d9e0"/>
+  {{ART}}
+  {{INFO}}
+</svg>

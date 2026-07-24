@@ -1,6 +1,13 @@
-<!-- <p align="center">
- <img width="1000" src="github-snake.svg" alt="snake"/>
-</p> -->
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg">
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg">
+  <img alt="harryitc's GitHub summary" src="dark_mode.svg">
+</picture>
+
+<br><br>
+
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -15,3 +22,5 @@
     src="https://raw.githubusercontent.com/harryitc/harryitc/output/github-contribution-grid-snake.svg"
   />
 </picture>
+
+</div>

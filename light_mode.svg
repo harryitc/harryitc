@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="981" height="523" viewBox="0 0 981 523">
+  <style>
+    text { font-family: ui-monospace, "SF Mono", "Cascadia Mono", "DejaVu Sans Mono", Consolas, monospace; font-size: 13px; }
+    .art { fill: #6e7781; }
+    .key { fill: #bc4c00; }
+    .val { fill: #1f2328; }
+    .hdr { fill: #0969da; }
+    .dot { fill: #d1d9e0; }
+    .add { fill: #1a7f37; }
+    .del { fill: #cf222e; }
+  </style>
+  <rect x="0.5" y="0.5" width="980" height="522" rx="10" fill="#ffffff" stroke="#d1d9e0"/>
+  <text class="art" x="24" y="39" xml:space="preserve"></text>
+<text class="art" x="24" y="54" xml:space="preserve">                       |||\jj</text>
+<text class="art" x="24" y="69" xml:space="preserve">                   0*%$$$$$$$@8#dO/</text>
+<text class="art" x="24" y="84" xml:space="preserve">                uh$$$$@@@@@BBB@@@$&amp;o0</text>
+<text class="art" x="24" y="99" xml:space="preserve">              x&amp;$$$@$$$$$$@$$@@@@%8@@&amp;q</text>
+<text class="art" x="24" y="114" xml:space="preserve">             z$$@@$$$$$$$$$$$$$@**B$$%$B</text>
+<text class="art" x="24" y="129" xml:space="preserve">             %@@$$$$$$$$$$@@$%#adW8oaBB$/</text>
+<text class="art" x="24" y="144" xml:space="preserve">            (@$$$$$$$%Wadwmpw0wpwCn  d$@</text>
+<text class="art" x="24" y="159" xml:space="preserve">             O$#M&amp;#M&amp;&amp;&amp;#odQQb#WM*kmY\\8a</text>
+<text class="art" x="24" y="174" xml:space="preserve"> |  (         %dh%8&amp;&amp;%$$$$MOh@$$$8*##0p</text>
+<text class="art" x="24" y="189" xml:space="preserve">((\\(        QqQU*#B$$$$BBC r#%$$$$#bwY</text>
+<text class="art" x="24" y="204" xml:space="preserve">t\\/ \(||(   dLn(Ymh*M##&amp;d   Xoa**hmJn r</text>
+<text class="art" x="24" y="219" xml:space="preserve">ftrttf/\\|   /qUxxYQ00Zwu     |OmOOUn</text>
+<text class="art" x="24" y="234" xml:space="preserve">ru\|fjjjf|  | /QOLUXzuvXYOQOUCv|xucnxcQ</text>
+<text class="art" x="24" y="249" xml:space="preserve">x\ fnuxxrff  \JqmqwLXj ndo8B*Zc   vCQY</text>
+<text class="art" x="24" y="264" xml:space="preserve">f/xrnuzvnj/fZ&amp;$wOmmm0qkmQ0CYzcvJQuUUO</text>
+<text class="art" x="24" y="279" xml:space="preserve">frnvYzfjjQ*$$$z aqqpa&amp;bOwdpqqmQ0WaZwC      \</text>
+<text class="art" x="24" y="294" xml:space="preserve">ucXc/\n*%$$$@B  dWkbkqL0p*M##hZCZhC uQxrxftX|\</text>
+<text class="art" x="24" y="309" xml:space="preserve">cf   d$$$$B%@@  |&amp;@WawZqoM&amp;&amp;*dO0Cx/   ZYuUUQJY</text>
+<text class="art" x="24" y="324" xml:space="preserve">/ cm8$@@@B%%%$f   k$$B*aWB$@@Mw0p      CmqZmmU</text>
+<text class="art" x="24" y="339" xml:space="preserve">  YW$$@B8&amp;&amp;8B$q    wkM$$$BB@8kcq#n       (YYUq</text>
+<text class="art" x="24" y="354" xml:space="preserve">/    &amp;$@$$$B%@$     \XJZW$$$&amp;mY8Or         \M@</text>
+<text class="art" x="24" y="369" xml:space="preserve">      z8#OYp$8&amp;x       f  wW#wadUf       L  W$</text>
+<text class="art" x="24" y="384" xml:space="preserve">         vUUj  |        /   mqb&amp;oc     fX    *</text>
+<text class="art" x="24" y="399" xml:space="preserve">      (vmwUznn/ (           |Om#bt   nz</text>
+  <text x="433" y="43" xml:space="preserve"><tspan class="hdr">─ harryitc@github ──────────────────────────────────────────────</tspan></text>
+<text x="433" y="62" xml:space="preserve"><tspan class="key">OS</tspan><tspan class="dot">: .................. </tspan><tspan class="val">Windows 11, WSL2 Ubuntu 24.04, Android 15</tspan></text>
+<text x="433" y="81" xml:space="preserve"><tspan class="key">Uptime</tspan><tspan class="dot">: ............................ </tspan><tspan class="val">26 years, 6 months, 23 days</tspan></text>
+<text x="433" y="100" xml:space="preserve"><tspan class="key">Host</tspan><tspan class="dot">: ........................................ </tspan><tspan class="val">HUTECH University</tspan></text>
+<text x="433" y="119" xml:space="preserve"><tspan class="key">Kernel</tspan><tspan class="dot">: .................................... </tspan><tspan class="val">Fullstack Developer</tspan></text>
+<text x="433" y="138" xml:space="preserve"><tspan class="key">IDE</tspan><tspan class="dot">: ........................ </tspan><tspan class="val">VSCode 1.108, IntelliJ IDEA 2025.1</tspan></text>
+<text x="433" y="176" xml:space="preserve"><tspan class="key">Languages.Programming</tspan><tspan class="dot">: .... </tspan><tspan class="val">TypeScript, JavaScript, Java, Python</tspan></text>
+<text x="433" y="195" xml:space="preserve"><tspan class="key">Languages.Computer</tspan><tspan class="dot">: ................. </tspan><tspan class="val">HTML, CSS, SQL, JSON, YAML</tspan></text>
+<text x="433" y="214" xml:space="preserve"><tspan class="key">Languages.Real</tspan><tspan class="dot">: ............................ </tspan><tspan class="val">Vietnamese, English</tspan></text>
+<text x="433" y="233" xml:space="preserve"><tspan class="key">Hobbies.Software</tspan><tspan class="dot">: ...................... </tspan><tspan class="val">Open Source, Automation</tspan></text>
+<text x="433" y="252" xml:space="preserve"><tspan class="key">Hobbies.Hardware</tspan><tspan class="dot">: .................................. </tspan><tspan class="val">PC Building</tspan></text>
+<text x="433" y="290" xml:space="preserve"><tspan class="hdr">─ Contact ──────────────────────────────────────────────────────</tspan></text>
+<text x="433" y="309" xml:space="preserve"><tspan class="key">Email.Personal</tspan><tspan class="dot">: ......................... </tspan><tspan class="val">harryitc.dev@gmail.com</tspan></text>
+<text x="433" y="328" xml:space="preserve"><tspan class="key">LinkedIn</tspan><tspan class="dot">: ............................................. </tspan><tspan class="val">harryitc</tspan></text>
+<text x="433" y="347" xml:space="preserve"><tspan class="key">GitHub</tspan><tspan class="dot">: ............................................... </tspan><tspan class="val">harryitc</tspan></text>
+<text x="433" y="385" xml:space="preserve"><tspan class="hdr">─ GitHub Stats ─────────────────────────────────────────────────</tspan></text>
+<text x="433" y="404" xml:space="preserve"><tspan class="key">Repos</tspan><tspan class="dot">: ....................................................... </tspan><tspan class="val">0</tspan></text>
+<text x="433" y="423" xml:space="preserve"><tspan class="key">Contributed</tspan><tspan class="dot">: ................................................. </tspan><tspan class="val">0</tspan></text>
+<text x="433" y="442" xml:space="preserve"><tspan class="key">Stars</tspan><tspan class="dot">: ....................................................... </tspan><tspan class="val">0</tspan></text>
+<text x="433" y="461" xml:space="preserve"><tspan class="key">Commits</tspan><tspan class="dot">: ..................................................... </tspan><tspan class="val">0</tspan></text>
+<text x="433" y="480" xml:space="preserve"><tspan class="key">Followers</tspan><tspan class="dot">: ................................................... </tspan><tspan class="val">0</tspan></text>
+<text x="433" y="499" xml:space="preserve"><tspan class="key">Lines of Code</tspan><tspan class="dot">: .................................... </tspan><tspan class="val">0 (</tspan><tspan class="add">0++</tspan><tspan class="val">, </tspan><tspan class="del">0--</tspan><tspan class="val">)</tspan></text>
+</svg>
