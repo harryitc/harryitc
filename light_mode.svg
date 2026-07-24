@@ -52,10 +52,10 @@
 <text x="400" y="328" xml:space="preserve"><tspan class="key">LinkedIn</tspan><tspan class="dot">: ............................................. </tspan><tspan class="val">harryitc</tspan></text>
 <text x="400" y="347" xml:space="preserve"><tspan class="key">GitHub</tspan><tspan class="dot">: ............................................... </tspan><tspan class="val">harryitc</tspan></text>
 <text x="400" y="385" xml:space="preserve"><tspan class="hdr">─ GitHub Stats ─────────────────────────────────────────────────</tspan></text>
-<text x="400" y="404" xml:space="preserve"><tspan class="key">Repos</tspan><tspan class="dot">: ....................................................... </tspan><tspan class="val">0</tspan></text>
-<text x="400" y="423" xml:space="preserve"><tspan class="key">Contributed</tspan><tspan class="dot">: ................................................. </tspan><tspan class="val">0</tspan></text>
-<text x="400" y="442" xml:space="preserve"><tspan class="key">Stars</tspan><tspan class="dot">: ....................................................... </tspan><tspan class="val">0</tspan></text>
-<text x="400" y="461" xml:space="preserve"><tspan class="key">Commits</tspan><tspan class="dot">: ..................................................... </tspan><tspan class="val">0</tspan></text>
-<text x="400" y="480" xml:space="preserve"><tspan class="key">Followers</tspan><tspan class="dot">: ................................................... </tspan><tspan class="val">0</tspan></text>
-<text x="400" y="499" xml:space="preserve"><tspan class="key">Lines of Code</tspan><tspan class="dot">: .................................... </tspan><tspan class="val">0 (</tspan><tspan class="add">0++</tspan><tspan class="val">, </tspan><tspan class="del">0--</tspan><tspan class="val">)</tspan></text>
+<text x="400" y="404" xml:space="preserve"><tspan class="key">Repos</tspan><tspan class="dot">: ...................................................... </tspan><tspan class="val">52</tspan></text>
+<text x="400" y="423" xml:space="preserve"><tspan class="key">Contributed</tspan><tspan class="dot">: ................................................. </tspan><tspan class="val">1</tspan></text>
+<text x="400" y="442" xml:space="preserve"><tspan class="key">Stars</tspan><tspan class="dot">: ....................................................... </tspan><tspan class="val">3</tspan></text>
+<text x="400" y="461" xml:space="preserve"><tspan class="key">Commits</tspan><tspan class="dot">: ................................................. </tspan><tspan class="val">1,030</tspan></text>
+<text x="400" y="480" xml:space="preserve"><tspan class="key">Followers</tspan><tspan class="dot">: ................................................... </tspan><tspan class="val">2</tspan></text>
+<text x="400" y="499" xml:space="preserve"><tspan class="key">Lines of Code</tspan><tspan class="dot">: .............. </tspan><tspan class="val">2,738,438 (</tspan><tspan class="add">2,365,315++</tspan><tspan class="val">, </tspan><tspan class="del">373,123--</tspan><tspan class="val">)</tspan></text>
 </svg>
