@@ -11,7 +11,7 @@ USER_NAME = "harryitc"
 
 # Used to compute the "Uptime" row. Format: YYYY-MM-DD.
 # Set to None to show account age (time since you joined GitHub) instead.
-BIRTHDAY = "2000-01-01"
+BIRTHDAY = "2004-12-23"
 
 SYSTEM = [
     ("OS", "Windows 11, WSL2 Ubuntu 24.04, Android 15"),
@@ -23,7 +23,8 @@ SYSTEM = [
 
 LANGUAGES = [
     ("Languages.Programming", "TypeScript, JavaScript, Java, Python"),
-    ("Languages.Computer", "HTML, CSS, SQL, JSON, YAML"),
+    ("Languages.Framework", "Angular, Next.js, NestJS, Odoo"),
+    ("Languages.VideCoding", "Claude, Codex, Antigravity, Github Coplit"),
     ("Languages.Real", "Vietnamese, English"),
 ]
 
