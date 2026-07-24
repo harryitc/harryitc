@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="948" height="523" viewBox="0 0 948 523">
+<svg xmlns="http://www.w3.org/2000/svg" width="948" height="542" viewBox="0 0 948 542">
   <style>
     text { font-family: ui-monospace, "SF Mono", "Cascadia Mono", "DejaVu Sans Mono", Consolas, monospace; font-size: 13px; }
     .art { fill: #6e7781; }
@@ -9,7 +9,7 @@
     .add { fill: #1a7f37; }
     .del { fill: #cf222e; }
   </style>
-  <rect x="0.5" y="0.5" width="947" height="522" rx="10" fill="#ffffff" stroke="#d1d9e0"/>
+  <rect x="0.5" y="0.5" width="947" height="541" rx="10" fill="#ffffff" stroke="#d1d9e0"/>
   <text class="art" x="24" y="39" xml:space="preserve"></text>
 <text class="art" x="24" y="54" xml:space="preserve">                  zOdkbdba*awJv</text>
 <text class="art" x="24" y="69" xml:space="preserve">               h$$$$$$$$$$@@@@BB8#q</text>
@@ -38,24 +38,25 @@
 <text class="art" x="24" y="414" xml:space="preserve">BB$$B888B$          J*@@$$@*Z m$Y</text>
   <text x="400" y="43" xml:space="preserve"><tspan class="hdr">─ harryitc@github ──────────────────────────────────────────────</tspan></text>
 <text x="400" y="62" xml:space="preserve"><tspan class="key">OS</tspan><tspan class="dot">: .................. </tspan><tspan class="val">Windows 11, WSL2 Ubuntu 24.04, Android 15</tspan></text>
-<text x="400" y="81" xml:space="preserve"><tspan class="key">Uptime</tspan><tspan class="dot">: ............................ </tspan><tspan class="val">26 years, 6 months, 23 days</tspan></text>
+<text x="400" y="81" xml:space="preserve"><tspan class="key">Uptime</tspan><tspan class="dot">: .............................. </tspan><tspan class="val">21 years, 7 months, 1 day</tspan></text>
 <text x="400" y="100" xml:space="preserve"><tspan class="key">Host</tspan><tspan class="dot">: ........................................ </tspan><tspan class="val">HUTECH University</tspan></text>
 <text x="400" y="119" xml:space="preserve"><tspan class="key">Kernel</tspan><tspan class="dot">: .................................... </tspan><tspan class="val">Fullstack Developer</tspan></text>
 <text x="400" y="138" xml:space="preserve"><tspan class="key">IDE</tspan><tspan class="dot">: ........................ </tspan><tspan class="val">VSCode 1.108, IntelliJ IDEA 2025.1</tspan></text>
 <text x="400" y="176" xml:space="preserve"><tspan class="key">Languages.Programming</tspan><tspan class="dot">: .... </tspan><tspan class="val">TypeScript, JavaScript, Java, Python</tspan></text>
-<text x="400" y="195" xml:space="preserve"><tspan class="key">Languages.Computer</tspan><tspan class="dot">: ................. </tspan><tspan class="val">HTML, CSS, SQL, JSON, YAML</tspan></text>
-<text x="400" y="214" xml:space="preserve"><tspan class="key">Languages.Real</tspan><tspan class="dot">: ............................ </tspan><tspan class="val">Vietnamese, English</tspan></text>
-<text x="400" y="233" xml:space="preserve"><tspan class="key">Hobbies.Software</tspan><tspan class="dot">: ...................... </tspan><tspan class="val">Open Source, Automation</tspan></text>
-<text x="400" y="252" xml:space="preserve"><tspan class="key">Hobbies.Hardware</tspan><tspan class="dot">: .................................. </tspan><tspan class="val">PC Building</tspan></text>
-<text x="400" y="290" xml:space="preserve"><tspan class="hdr">─ Contact ──────────────────────────────────────────────────────</tspan></text>
-<text x="400" y="309" xml:space="preserve"><tspan class="key">Email.Personal</tspan><tspan class="dot">: ......................... </tspan><tspan class="val">harryitc.dev@gmail.com</tspan></text>
-<text x="400" y="328" xml:space="preserve"><tspan class="key">LinkedIn</tspan><tspan class="dot">: ............................................. </tspan><tspan class="val">harryitc</tspan></text>
-<text x="400" y="347" xml:space="preserve"><tspan class="key">GitHub</tspan><tspan class="dot">: ............................................... </tspan><tspan class="val">harryitc</tspan></text>
-<text x="400" y="385" xml:space="preserve"><tspan class="hdr">─ GitHub Stats ─────────────────────────────────────────────────</tspan></text>
-<text x="400" y="404" xml:space="preserve"><tspan class="key">Repos</tspan><tspan class="dot">: ...................................................... </tspan><tspan class="val">52</tspan></text>
-<text x="400" y="423" xml:space="preserve"><tspan class="key">Contributed</tspan><tspan class="dot">: ................................................. </tspan><tspan class="val">1</tspan></text>
-<text x="400" y="442" xml:space="preserve"><tspan class="key">Stars</tspan><tspan class="dot">: ....................................................... </tspan><tspan class="val">3</tspan></text>
-<text x="400" y="461" xml:space="preserve"><tspan class="key">Commits</tspan><tspan class="dot">: ................................................. </tspan><tspan class="val">1,030</tspan></text>
-<text x="400" y="480" xml:space="preserve"><tspan class="key">Followers</tspan><tspan class="dot">: ................................................... </tspan><tspan class="val">2</tspan></text>
-<text x="400" y="499" xml:space="preserve"><tspan class="key">Lines of Code</tspan><tspan class="dot">: .............. </tspan><tspan class="val">2,738,438 (</tspan><tspan class="add">2,365,315++</tspan><tspan class="val">, </tspan><tspan class="del">373,123--</tspan><tspan class="val">)</tspan></text>
+<text x="400" y="195" xml:space="preserve"><tspan class="key">Languages.Framework</tspan><tspan class="dot">: ............ </tspan><tspan class="val">Angular, Next.js, NestJS, Odoo</tspan></text>
+<text x="400" y="214" xml:space="preserve"><tspan class="key">Languages.VideCoding</tspan><tspan class="dot">: . </tspan><tspan class="val">Claude, Codex, Antigravity, Github Coplit</tspan></text>
+<text x="400" y="233" xml:space="preserve"><tspan class="key">Languages.Real</tspan><tspan class="dot">: ............................ </tspan><tspan class="val">Vietnamese, English</tspan></text>
+<text x="400" y="252" xml:space="preserve"><tspan class="key">Hobbies.Software</tspan><tspan class="dot">: ...................... </tspan><tspan class="val">Open Source, Automation</tspan></text>
+<text x="400" y="271" xml:space="preserve"><tspan class="key">Hobbies.Hardware</tspan><tspan class="dot">: .................................. </tspan><tspan class="val">PC Building</tspan></text>
+<text x="400" y="309" xml:space="preserve"><tspan class="hdr">─ Contact ──────────────────────────────────────────────────────</tspan></text>
+<text x="400" y="328" xml:space="preserve"><tspan class="key">Email.Personal</tspan><tspan class="dot">: ......................... </tspan><tspan class="val">harryitc.dev@gmail.com</tspan></text>
+<text x="400" y="347" xml:space="preserve"><tspan class="key">LinkedIn</tspan><tspan class="dot">: ............................................. </tspan><tspan class="val">harryitc</tspan></text>
+<text x="400" y="366" xml:space="preserve"><tspan class="key">GitHub</tspan><tspan class="dot">: ............................................... </tspan><tspan class="val">harryitc</tspan></text>
+<text x="400" y="404" xml:space="preserve"><tspan class="hdr">─ GitHub Stats ─────────────────────────────────────────────────</tspan></text>
+<text x="400" y="423" xml:space="preserve"><tspan class="key">Repos</tspan><tspan class="dot">: ...................................................... </tspan><tspan class="val">52</tspan></text>
+<text x="400" y="442" xml:space="preserve"><tspan class="key">Contributed</tspan><tspan class="dot">: ................................................. </tspan><tspan class="val">1</tspan></text>
+<text x="400" y="461" xml:space="preserve"><tspan class="key">Stars</tspan><tspan class="dot">: ....................................................... </tspan><tspan class="val">3</tspan></text>
+<text x="400" y="480" xml:space="preserve"><tspan class="key">Commits</tspan><tspan class="dot">: ................................................. </tspan><tspan class="val">1,031</tspan></text>
+<text x="400" y="499" xml:space="preserve"><tspan class="key">Followers</tspan><tspan class="dot">: ................................................... </tspan><tspan class="val">2</tspan></text>
+<text x="400" y="518" xml:space="preserve"><tspan class="key">Lines of Code</tspan><tspan class="dot">: .............. </tspan><tspan class="val">2,738,443 (</tspan><tspan class="add">2,365,318++</tspan><tspan class="val">, </tspan><tspan class="del">373,125--</tspan><tspan class="val">)</tspan></text>
 </svg>
