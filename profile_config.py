@@ -24,7 +24,7 @@ SYSTEM = [
 LANGUAGES = [
     ("Languages.Programming", "TypeScript, JavaScript, Java, Python"),
     ("Languages.Framework", "Angular, Next.js, NestJS, Odoo"),
-    ("Languages.VideCoding", "Claude, Codex, Antigravity, Github Coplit"),
+    ("Languages.Coding", "Claude, Codex, Antigravity, Github Coplit"),
     ("Languages.Real", "Vietnamese, English"),
 ]
 
