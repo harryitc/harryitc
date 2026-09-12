@@ -109,6 +109,11 @@
   "commits": 4,
   "deletions": 23
  },
+ "harryitc/emberwick-fen-threejs": {
+  "additions": 8296,
+  "commits": 3,
+  "deletions": 0
+ },
  "harryitc/flutter-first-app": {
   "additions": 4906,
   "commits": 1,
@@ -178,6 +183,11 @@
   "additions": 0,
   "commits": 0,
   "deletions": 0
+ },
+ "harryitc/mini-raft-threejs": {
+  "additions": 6725,
+  "commits": 3,
+  "deletions": 2
  },
  "harryitc/n8n-docker": {
   "additions": 273,
