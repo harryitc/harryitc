@@ -20,9 +20,9 @@
   "deletions": 0
  },
  "harryitc/admin-langbiang": {
-  "additions": 39903,
-  "commits": 66,
-  "deletions": 2397
+  "additions": 39929,
+  "commits": 67,
+  "deletions": 2431
  },
  "harryitc/agent-skill-for-me": {
   "additions": 20,
@@ -114,6 +114,11 @@
   "commits": 11,
   "deletions": 216
  },
+ "harryitc/exam-frontend-aidt": {
+  "additions": 5604,
+  "commits": 2,
+  "deletions": 11
+ },
  "harryitc/flutter-first-app": {
   "additions": 4906,
   "commits": 1,
@@ -170,9 +175,9 @@
   "deletions": 3233
  },
  "harryitc/langbiang": {
-  "additions": 79163,
-  "commits": 312,
-  "deletions": 42454
+  "additions": 81290,
+  "commits": 326,
+  "deletions": 42856
  },
  "harryitc/love-message": {
   "additions": 16937,
