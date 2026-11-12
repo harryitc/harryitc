@@ -189,15 +189,20 @@
   "commits": 333,
   "deletions": 42914
  },
+ "harryitc/lms-course-manager-edx": {
+  "additions": 5713,
+  "commits": 22,
+  "deletions": 1546
+ },
  "harryitc/love-message": {
   "additions": 16937,
   "commits": 39,
   "deletions": 3441
  },
  "harryitc/mapex": {
-  "additions": 81455,
-  "commits": 2,
-  "deletions": 0
+  "additions": 541084,
+  "commits": 148,
+  "deletions": 29621
  },
  "harryitc/media-cms-tutorial": {
   "additions": 0,
